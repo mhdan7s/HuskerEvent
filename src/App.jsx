@@ -129,7 +129,6 @@ export default function App() {
                 required
               />
             </div>
-
             <div className="grid grid-cols-2 gap-3">
               <div className="space-y-1">
                 <label className="text-sm">Date (DD/MM/YYYY)</label>
